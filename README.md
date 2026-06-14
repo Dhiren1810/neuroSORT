@@ -68,3 +68,6 @@ streamlit run app.py
 NeuroSort demonstrates that complex computer vision tasks do not require massive GPU clusters at the edge. By shifting the paradigm from dense tensor multiplication to sparse temporal spiking, we pave the way for sustainable, battery-powered AI in the recycling and waste-management industries.
 
 ---
+<div align="center">
+  <em>🔋 Engineered to push the boundaries of ultra-low-power edge AI 🧠</em>
+</div
